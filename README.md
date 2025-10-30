@@ -1,0 +1,1 @@
+This is the website i made for technical evaluation.Although the project is still unfinished in my opinion.But due to the time constraints im having right now,this is the best i could do.Hope this will impress everyone
